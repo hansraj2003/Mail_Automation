@@ -1,7 +1,7 @@
 .venv
-C:\Users\Administrator\Desktop\Mail_Automation\.gitignore
-C:\Users\Administrator\Desktop\Mail_Automation\mailer.py
+.gitignore
+mailer.py
 outbox_log.xlsx
-C:\Users\Administrator\Desktop\Mail_Automation\test_mailer.py
+test_mailer.py
 .env
 Copy of JPC.xlsx
