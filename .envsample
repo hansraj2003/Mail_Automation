@@ -1,0 +1,17 @@
+BASELINE_XLSX_PATH=Copy of JPC.xlsx
+SHEET_NAME=All Previous Year Data
+OUTBOX_LOG_PATH=outbox_log.xlsx
+SUMMARY_EMAIL=yaha personal mail daal dena vo tumhe notify krdega session1 completed
+SENDER_EMAIL=jis bhi mail ko automate krna chahte ho
+SENDER_PASSWORD= jis mail se karoge us mail se google pr app passwords search karo, 2 step verification on kro nahi hai toh, username kuch bhi daal do koi farq nah pdega frr 16 characters ka password generate hoga usko copy karke yaha paste krdena, or vo ek hi baar dikhega password
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+DRIVE_RESUME_LINK=drive link daalo apna
+RESUME_PDF_PATH=locally jo resume ka path hai yaha paste krdo without any quotes(single or double)
+SUBJECT_TEMPLATE=Internship application – {company}
+BODY_TEMPLATE_LINK=""{greeting}\n\nI’m a final-year student at DTU... link: {resume_link}""
+BODY_TEMPLATE_ATTACH=""{greeting}\n\nI’m a final-year student at DTU... (attached)""
+PER_SESSION_MIN=15
+PER_SESSION_MAX=25
+MIN_DELAY_SECONDS=120
+MAX_DELAY_SECONDS=360
